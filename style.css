@@ -396,7 +396,36 @@ blockquote{
 	              margin: 3px;
 				  color: red;
 	}
+#navbarNav
+{
+	background-color: #efefef!important;
 
+	}
+#app {
+background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(hqdefault.jpg);
+	background-size: cover;
+	background-position: center;
+	color: #000;
+	background-attachment: fixed;
+	padding: 10px;
+	font-family: sans-serif;
 
+}
+#app h1{
+	             color: #fff !important;
+	}
+#app p
+{
+	      font-size: 14px;
+		  font-family: "Times New Roman", Times, serif;
 
-
+	}
+#app h2{
+	            font-size: 18px;
+				font-family: "Times New Roman", Times, serif; 
+ }
+ .fa-smile-o{
+	         color: green;
+			 margin-right: 10px;
+			 font-size: 20px;
+	}
